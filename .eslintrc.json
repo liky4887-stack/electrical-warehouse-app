@@ -1,0 +1,6 @@
+{
+  "extends": ["expo/eslint-config"],
+  "rules": {
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": "off"
+  }}
